@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Rounded grey square container -->
+    <path
+        android:fillColor="#CCCCCC"
+        android:pathData="M20,10 H80 A12,12 0 0 1 92,22 V80 A12,12 0 0 1 80,92 H20 A12,12 0 0 1 8,80 V22 A12,12 0 0 1 20,10 Z" />
+    <!-- Left large white mountain peak -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,80 L44,40 L66,80 Z" />
+    <!-- Right smaller white mountain peak -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,80 L66,50 L86,80 Z" />
+</vector>
